@@ -1,5 +1,4 @@
 # Naive-Bayes-Algorithm-from-Scratch
-
 Naive bayes algorithm is a superwise Machine learning algorithm based on the BAYES THEOREM and is used for classfication. It uses the concept of Guassian Probability density function for finding the probability of class when target data already occure
 
 p(class | X) = (p(X | class) * p(class))
