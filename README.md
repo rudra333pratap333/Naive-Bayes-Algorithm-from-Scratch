@@ -10,4 +10,4 @@ p(class | X1, X2 ---- Xn) = (p(X1 | class) * p(X2 | class) ----- p(Xn | class) *
 After the calculating Probabilty of data to each class, The class which has more probability of occurance of test data or target data, is the class to which target belongs.
 
             
-            Gaussian Probability Function =  ![img_pdf.png]
+ Gaussian Probability Function =  ![img_pdf.png]
